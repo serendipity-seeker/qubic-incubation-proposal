@@ -127,7 +127,7 @@ Qubihub is a comprehensive, all-in-one platform for interacting with the Qubic n
 - M1 – 20% ($3,600)
 - M2 – 25% ($4,500)
 - M3 – 25% ($4,500)
-- M4 – 30% ($4,500)
+- M4 – 30% ($5,400)
 
 ---
 
